@@ -34,4 +34,4 @@ MobileNetV3,cuda,fp16,4,12.4302,321.8,20.01
 MobileNetV3,cuda,fp16,8,10.7336,745.33,24.47
 MobileNetV3,cuda,fp16,16,9.1761,1743.66,33.9
 MobileNetV3,cuda,fp16,32,11.0069,2907.26,54.24
-MobileNetV3,cuda,fp16,64,16.8007,3809.37,94.49
+MobileNetV3,cuda,fp16,64,16.8007,3809.37,94.49.
